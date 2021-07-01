@@ -1,0 +1,8 @@
+div {
+    background-color: rgb(198, 239, 255);
+    width: 60%;
+    min-height: 98%;
+    position: absolute;
+    left: 20%;
+    border-radius: 10px;
+}
